@@ -1,2 +1,2 @@
-# salpredictionprtfl
-Sal Pred Proj - Python
+# salarypredictionportfolio
+Salary Prediction Proj - Python
